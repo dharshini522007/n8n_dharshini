@@ -106,3 +106,17 @@ Explore the complete project and workflow files:
 ---
 
 *Built with n8n Workflow Automation and AI Integration.*
+## Project Execution Results
+
+### AI Email Manager Workflow
+![Workflow](AI_Email_Manager_workflow.png)
+
+### Google Sheets Email Processing Output
+![Google Sheets Output](AI_Email_Manager_Google_Sheets.png)
+
+## Technologies Used
+- n8n
+- Gmail API
+- OpenAI
+- Google Sheets
+- Docker
